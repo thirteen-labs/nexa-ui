@@ -82,4 +82,5 @@ export function NexaFAB({
   );
 }
 
+export const NexaFloatingButton = NexaFAB;
 export default NexaFAB;

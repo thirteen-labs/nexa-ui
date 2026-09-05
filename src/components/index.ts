@@ -24,7 +24,9 @@ export * from './forms';
 // Feedback
 export * from './feedback';
 
-// Navigation / Overlays / Media (Phase 3-4 stubs)
+// Navigation / Overlays / Media
 export * from './navigation';
 export * from './overlays';
 export * from './media';
+export * from './gestures';
+export * from './images';

@@ -10,3 +10,5 @@ export type { NexaContainerProps } from './NexaContainer';
 
 export { NexaSpacer } from './NexaSpacer';
 export type { NexaSpacerProps } from './NexaSpacer';
+export { NexaGrid, NexaWrap } from './NexaGrid';
+export type { NexaGridProps } from './NexaGrid';

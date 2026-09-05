@@ -13,3 +13,5 @@ export type { NexaBottomSheetProps } from './NexaBottomSheet';
 
 export { NexaToast, NexaToastProvider, useToast } from './NexaToast';
 export type { ToastOptions, ToastVariant } from './NexaToast';
+export { NexaPopover, NexaTooltip, NexaContextMenu } from './NexaPopover';
+export { NexaDrawer, NexaActionSheet, NexaAlert, NexaSnackbar, NexaNotification } from './NexaDrawer';

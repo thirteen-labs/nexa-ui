@@ -16,3 +16,4 @@ export type { NexaPlayButtonProps, NexaSeekBarProps, NexaMiniPlayerProps, NexaPl
 
 export { NexaWaveform, NexaSpectrum } from './NexaWaveform';
 export type { NexaWaveformProps } from './NexaWaveform';
+export { NexaVolumeControl, NexaVisualizer, NexaLyrics, NexaQueue } from './NexaMediaExtras';

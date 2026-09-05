@@ -1,6 +1,6 @@
 {
   "name": "@obsidian_north/nexaui",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "NexaUI — Native-first, token-driven UI foundation for the Obsidian ecosystem. Composable, theme-aware primitives for React Native + Expo.",
   "keywords": [
     "react-native",

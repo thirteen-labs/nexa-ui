@@ -6,3 +6,6 @@ export { NexaProgress } from './NexaProgress';
 export type { NexaProgressProps } from './NexaProgress';
 export { NexaEmptyState } from './NexaEmptyState';
 export type { NexaEmptyStateProps } from './NexaEmptyState';
+export { NexaAccordion, NexaDisclosure } from './NexaAccordion';
+export type { NexaAccordionProps } from './NexaAccordion';
+export { NexaTable, NexaDataList, NexaTimeline, NexaStat, NexaMetric } from './NexaTable';

@@ -1,5 +1,9 @@
 # NexaUI
 
+<p align="center">
+  <img src="./obsidian-northern.png" alt="NexaUI — Obsidian Northern" width="320" />
+</p>
+
 > Native-first, token-driven UI foundation for the Obsidian ecosystem.
 
 ```
@@ -86,6 +90,12 @@ src/
   icons/
   utils/
 ```
+
+## Developers
+
+| Thirteen Labs | Obsidian Northern |
+| :---: | :---: |
+| <img src="./thirteen-labs.png" alt="Thirteen Labs" width="120" /> | <img src="./obsidian-northern.png" alt="Obsidian Northern" width="120" /> |
 
 ## License
 

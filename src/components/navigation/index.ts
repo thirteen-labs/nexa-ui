@@ -12,3 +12,5 @@ export type { NexaTabsProps, NexaTabProps } from './NexaTabs';
 
 export { NexaNavigationRail } from './NexaNavigationRail';
 export type { NexaNavigationRailProps, RailItem } from './NexaNavigationRail';
+export { NexaBreadcrumb } from './NexaBreadcrumb';
+export type { NexaBreadcrumbProps, Crumb } from './NexaBreadcrumb';

@@ -4,3 +4,8 @@ export { NexaIconButton } from './NexaIconButton';
 export type { NexaIconButtonProps } from './NexaIconButton';
 export { NexaFAB } from './NexaFAB';
 export type { NexaFABProps } from './NexaFAB';
+export { NexaLink } from './NexaLink';
+export type { NexaLinkProps } from './NexaLink';
+export { NexaButtonGroup } from './NexaButtonGroup';
+export type { NexaButtonGroupProps } from './NexaButtonGroup';
+export { NexaFloatingButton } from './NexaFAB';
