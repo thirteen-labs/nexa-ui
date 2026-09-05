@@ -4,6 +4,11 @@
   <img src="./obsidian-northern.png" alt="NexaUI — Obsidian Northern" width="320" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/thirteen-labs/nexa-ui"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-thirteen--labs%2Fnexa--ui-000?logo=github" /></a>
+  <a href="https://github.com/thirteen-labs/nexa-ui"><code>github.com/thirteen-labs/nexa-ui</code></a>
+</p>
+
 > Native-first, token-driven UI foundation for the Obsidian ecosystem.
 
 ```

@@ -15,7 +15,7 @@
   "author": "Obsidian North",
   "repository": {
     "type": "git",
-    "url": "https://github.com/obsidian-north/nexa-ui"
+    "url": "https://github.com/thirteen-labs/nexa-ui.git"
   },
   "type": "commonjs",
   "main": "./dist/index.js",
